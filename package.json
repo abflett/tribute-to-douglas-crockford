@@ -1,0 +1,34 @@
+{
+  "name": "tribute-to-douglas-crockford",
+  "version": "0.0.1",
+  "description": "Free Code Camp (FCC) - Basic Front End Development Projects - Build a Tribute Page - Tribute to Douglas Crockford",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abflett/tribute-to-douglas-crockford.git"
+  },
+  "keywords": [
+    "Free",
+    "Code",
+    "Camp",
+    "FCC",
+    "Basic",
+    "Front-End",
+    "Development",
+    "Projects",
+    "Build",
+    "Tribute",
+    "Page",
+    "Douglas",
+    "Crockford"
+  ],
+  "author": "Adam Flett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abflett/tribute-to-douglas-crockford/issues"
+  },
+  "homepage": "https://github.com/abflett/tribute-to-douglas-crockford#readme"
+}
